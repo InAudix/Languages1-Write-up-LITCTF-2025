@@ -12,7 +12,7 @@ Provided: A video, and 3 Hints
 
 The handsigns  appear flipped as the reference I obtained was for the right hand, and the video uses their left (or the video is mirrored). 
 
-![L.png](SCREENSHOTS\L.png "L.png")![L.jpg](REFERENCES\L.jpg)
+![L.png](main\SCREENSHOTS\L.png "L.png")![L.jpg](REFERENCES\L.jpg)
 The first character is **L**.
 
 ![I.png](SCREENSHOTS\I.png)![I.jpg](REFERENCES\I.jpg)
