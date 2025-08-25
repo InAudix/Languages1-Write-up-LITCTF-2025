@@ -63,6 +63,7 @@ The 11th and 12th characters are **oo**.
 The 13th character is **L**.
 
 There is no second L here!
+
 ![4.png](SCREENSHOTS/4.png)![4.jpg](REFERENCES/4.jpg)
 
 The 14th character is **4**. Just like F, there can be variations in how people sign numbers in ASL, interchaning palm facing inwards and outwards.
