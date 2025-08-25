@@ -107,4 +107,5 @@ After translating all the fingerspelling and formatting into standard flag forma
 I was pleasantly suprised to find a CTF Competition that included ASL in one of their challenges! I was a little confused about why it was `COOL4NGU...` and not `COOLL4NGU...`, but apart from that it was a fun little challenge.
 
 _Author: InAudix_
+
 _Credit to [Wikimedia](https://commons.wikimedia.org/wiki/File:Asl_alphabet_gallaudet_ann.svg) for the ASL alphabet refernce sheet_
