@@ -5,7 +5,7 @@ Provided: A video, and 3 Hints
 1. **Watching the video and checking for hints**
 	The video that was provided with the challenge of someone fingerspelling something in ASL. We also were provided 3 hints.
 	- ASL
-    - The flag can not numbers
+    - The flag can have numbers
     - **0** (first sign) does not appear in the flag
 
 2. **Translating Fingerspelling**
