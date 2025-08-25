@@ -14,49 +14,49 @@ The handsigns  appear flipped as the reference I obtained was for the right hand
 
 ![L.png](SCREENSHOTS/L.png "L.png")![L.jpg](REFERENCES/L.jpg)
 
-The first character is **L**.
+The 1st character is **L**.
 
 ![I.png](SCREENSHOTS/I.png)![I.jpg](REFERENCES/I.jpg)
 
-The second character is **I**.
+The 2nd character is **I**.
 
 ![T.png](SCREENSHOTS/T.png)![T.jpg](REFERENCES/T.jpg)
 
-The third character is **T**.
+The 3rd character is **T**.
 
 ![C.png](SCREENSHOTS/C.png)![C.jpg](REFERENCES/C.jpg)
 
-The fourth character is **C**.
+The 4th character is **C**.
 
 ![TT.png](SCREENSHOTS/TT.png)![T.jpg](REFERENCES/T.jpg)
 
-The fifth character is **T**.
+The 5th character is **T**.
 
 ![F.png](SCREENSHOTS/F.png)![F.jpg](REFERENCES/F.jpg)
 
-The sixth character is **F**. The fingerspelling for F can have two different forms (some members of the hard-of-hearing community are picking about this.), but this is due to natural variations. Choose whatever is more comfortable for you.
+The 6th character is **F**. The fingerspelling for F can have two different forms (some members of the hard-of-hearing community are picking about this.), but this is due to natural variations. Choose whatever is more comfortable for you.
 
 What we have so far **LITCTF**. Implying that this message is in standard flag format, I'm gonna add the **{** after for **LITCTF{**. I will now continue.
 
 ![A.png](SCREENSHOTS/A.png)![A.jpg](REFERENCES/A.jpg)
 
-The seventh character is **A**.
+The 7th character is **A**.
 
 ![S.png](SCREENSHOTS/S.png)![S.jpg](REFERENCES/S.jpg)
 
-The eighth character is **S**.
+The 8th character is **S**.
 
 ![LL.png](SCREENSHOTS/LL.png) ![L.jpg](REFERENCES/L.jpg)
 
-The ninth character is **L**. Be wary that you do not miss **ASL**, this part goes quickly.
+The 9th character is **L**. Be wary that you do not miss **ASL**, this part goes quickly.
 
 ![CC.png](SCREENSHOTS/CC.png)![C.jpg](REFERENCES/C.jpg)
 
-The tenth character is **C**.
+The 10th character is **C**.
 
 ![O.png](SCREENSHOTS/O.png)![OO.png](SCREENSHOTS/OO.png)![O.jpg](REFERENCES/O.jpg)
 
-The eleventh and twelth characters are **oo**.
+The 11th and 12th characters are **oo**.
 
 ![LLL.png](SCREENSHOTS/LLL.png)![L.jpg](REFERENCES/L.jpg)
 
